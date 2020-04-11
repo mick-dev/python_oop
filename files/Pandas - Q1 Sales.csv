@@ -1,0 +1,21 @@
+Country,Region,Sales Person,Date of Purchase,Total,Quantity
+India,North,John,5/2/2016 0:00:00,100000,567
+US,North,Bill,7/13/2011 0:00:00,120000,3000
+UK,North,Thomas,5/12/2013 0:00:00,140000,345
+Australia,East,John,4/6/2017 0:00:00,160000,1000
+Africa,East,Bill,11/30/2017 0:00:00,180000,123
+Singapore,East,Thomas,7/15/2011 0:00:00,200000,1000
+Mylasia,West,John,11/26/2011 0:00:00,1000000,7890
+India,West,Bill,11/20/2011 0:00:00,240000,200
+US,West,Thomas,10/31/2010 0:00:00,26000000,1000
+UK,North,John,5/27/2018 0:00:00,100000,1000
+Australia,North,Bill,10/16/2018 0:00:00,120000,567
+Africa,North,Thomas,11/16/2013 0:00:00,140000,1000
+Singapore,East,John,8/15/2011 0:00:00,160000,892
+Mylasia,East,Bill,12/1/2014 0:00:00,180000,444
+India,East,Thomas,6/23/2010 0:00:00,200000,90
+US,West,John,3/7/2014 0:00:00,220000,90
+UK,West,Bill,6/10/2016 0:00:00,240000,90
+Australia,West,Thomas,11/10/2010 0:00:00,260000,90
+Africa,North,John,6/10/2016 0:00:00,140000,85
+Singapore,North,Bill,4/28/2014 0:00:00,150000,85
